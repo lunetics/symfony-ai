@@ -1,0 +1,11 @@
+lane	variant	run	rc	duration_s	mate_calls	queries_after
+kimi	pre	1	0	297	5	1
+kimi	pre	2	0	324	4	1
+kimi	pre	3	0	158	7	1
+kimi	pre	4	0	144	5	1
+kimi	pre	5	0	260	9	1
+kimi	post	1	0	281	21	1
+kimi	post	2	0	268	14	1
+kimi	post	3	0	258	6	1
+kimi	post	4	0	137	5	1
+kimi	post	5	0	145	10	1

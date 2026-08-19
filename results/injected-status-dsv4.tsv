@@ -1,0 +1,11 @@
+lane	variant	run	rc	duration_s	mate_calls	queries_after
+dsv4	pre	1	0	219	6	1
+dsv4	pre	2	0	194	4	1
+dsv4	pre	3	0	162	3	1
+dsv4	pre	4	0	198	3	1
+dsv4	pre	5	0	136	4	1
+dsv4	post	1	0	504	5	1
+dsv4	post	2	0	172	6	1
+dsv4	post	3	0	201	7	1
+dsv4	post	4	0	132	6	1
+dsv4	post	5	0	113	3	1

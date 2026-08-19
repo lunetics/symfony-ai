@@ -1,0 +1,6 @@
+lane	variant	run	rc	duration_s	mate_calls	queries_after
+q27	bare	1	0	402	0	21
+q27	bare	2	0	811	0	21
+q27	bare	3	0	716	0	21
+q27	bare	4	1	2776	0	21
+q27	bare	5	0	399	0	21

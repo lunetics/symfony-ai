@@ -1,0 +1,54 @@
+{
+  "require": {
+    "php": ">=8.4",
+    "ext-ctype": "*",
+    "ext-iconv": "*",
+    "doctrine/doctrine-bundle": "^3.3",
+    "doctrine/doctrine-migrations-bundle": "^4.0",
+    "doctrine/orm": "^3.6",
+    "symfony/console": "8.1.*",
+    "symfony/dotenv": "8.1.*",
+    "symfony/flex": "^2",
+    "symfony/framework-bundle": "8.1.*",
+    "symfony/runtime": "8.1.*",
+    "symfony/yaml": "8.1.*"
+  },
+  "require-dev": {
+    "symfony/ai-mate": "dev-pr2380 as 0.12.99",
+    "symfony/ai-symfony-mate-extension": "dev-pr2380",
+    "symfony/web-profiler-bundle": "8.1.*"
+  },
+  "repositories": [
+    {
+      "name": "mateprs",
+      "type": "path",
+      "url": "/ai/src/mate/src/Bridge/Symfony",
+      "options": {
+        "symlink": false
+      }
+    },
+    {
+      "name": "matepr",
+      "type": "path",
+      "url": "/ai/src/mate",
+      "options": {
+        "symlink": false
+      }
+    }
+  ],
+  "extra": {
+    "symfony": {
+      "allow-contrib": false,
+      "require": "8.1.*"
+    },
+    "ai-mate": {
+      "extension": false,
+      "scan-dirs": [
+        "mate/src"
+      ],
+      "includes": [
+        "mate/config.php"
+      ]
+    }
+  }
+}

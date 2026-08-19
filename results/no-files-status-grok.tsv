@@ -1,0 +1,6 @@
+lane	variant	run	rc	duration_s	mate_calls	queries_after
+grok	bare	1	0	129	0	1
+grok	bare	2	0	103	0	1
+grok	bare	3	0	139	0	1
+grok	bare	4	0	155	0	1
+grok	bare	5	0	144	0	1

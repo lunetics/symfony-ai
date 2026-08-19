@@ -1,0 +1,11 @@
+lane	variant	run	rc	duration_s	mate_calls	queries_after
+terra	pre	1	0	176	16	1
+terra	pre	2	0	167	12	1
+terra	pre	3	0	244	14	1
+terra	pre	4	0	180	11	1
+terra	pre	5	0	128	11	1
+terra	post	1	0	137	8	1
+terra	post	2	0	95	14	1
+terra	post	3	0	183	34	1
+terra	post	4	0	204	11	1
+terra	post	5	0	158	24	1

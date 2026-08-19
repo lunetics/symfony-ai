@@ -1,0 +1,11 @@
+lane	variant	run	rc	duration_s	mate_calls	queries_after
+luna	pre	1	0	217	13	0
+luna	pre	2	0	162	9	1
+luna	pre	3	0	128	7	1
+luna	pre	4	0	195	12	1
+luna	pre	5	0	210	8	1
+luna	post	1	0	246	13	1
+luna	post	2	0	83	9	1
+luna	post	3	0	194	13	1
+luna	post	4	0	191	15	1
+luna	post	5	0	188	10	1

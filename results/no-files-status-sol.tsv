@@ -1,0 +1,6 @@
+lane	variant	run	rc	duration_s	mate_calls	queries_after
+sol	bare	1	0	259	0	1
+sol	bare	2	0	243	0	1
+sol	bare	3	0	221	0	1
+sol	bare	4	0	129	0	1
+sol	bare	5	0	193	0	1
